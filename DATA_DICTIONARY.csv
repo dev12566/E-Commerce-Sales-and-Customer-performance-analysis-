@@ -1,0 +1,26 @@
+Column,Data_Type
+Row ID,int64
+Order ID,object
+Order Date,datetime64[ns]
+Ship Date,datetime64[ns]
+Ship Mode,object
+Customer ID,object
+Customer Name,object
+Segment,object
+Country,object
+City,object
+State,object
+Postal Code,int64
+Region,object
+Product ID,object
+Category,object
+Sub-Category,object
+Product Name,object
+Sales,float64
+Quantity,int64
+Discount,float64
+Profit,float64
+Shipping Days,int64
+Year,int32
+Month,object
+Profit Margin %,float64
